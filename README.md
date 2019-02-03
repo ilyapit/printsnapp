@@ -1,1 +1,1 @@
-# printsnapp
+# squares_upload_widget
