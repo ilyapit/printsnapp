@@ -1,1 +1,1 @@
-# squares_upload_widget
+# image_upload_widget
